@@ -43,7 +43,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/ezrajohnson", "_blank");
+          window.open("https://www.linkedin.com/in/ezrajohnson02", "_blank");
         },
       },{
         id: 'social-orcid',
