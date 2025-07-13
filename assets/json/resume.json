@@ -37,10 +37,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Algorithms",
-        "Optimization"
-      ]
+      "keywords": ["Algorithms", "Optimization"]
     }
   ]
 }
