@@ -22,4 +22,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Ezra Johnson, a final year computer science major at Caltech. Looking forward, I am aiming to study algorithms with focuses on theoretical performance bounds and applications to social issues such as sustainability or fairness.
+I am Ezra Johnson, a final year computer science major at Caltech. Looking forward, I will pursue my Ph.D. studying algorithms with focuses on theoretical performance bounds and applications to social issues such as sustainability or fairness.
