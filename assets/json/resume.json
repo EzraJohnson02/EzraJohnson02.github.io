@@ -4,7 +4,7 @@
     "label": "CS Researcher",
     "image": "",
     "email": "erjohnso@caltech.edu",
-    "url": "https://EzraJohnson02.github.io/al-folio/",
+    "url": "https://ezrajohnson.me",
     "location": {
       "city": "Pasadena",
       "countryCode": "US",
@@ -19,7 +19,23 @@
       "startDate": "2025-06-02",
       "endDate": "2025-08-08",
       "summary": "Proved theoretical bounds on an uncertainty quantified, learning augmented, online algorithm for the online conversion with switching costs problem we designed. Simulated performance in a carbon forecasting dataset to measure empirical gains. Worked in the SOLAR group run by Professor Mohammad Hajiesmaili.",
-      "highlights": ["Algorithms", "Sustainability"]
+      "highlights": ["Algorithms", "Optimization", "Sustainability"]
+    },
+    {
+      "name": "Caltech",
+      "position": "Undergraduate Researcher",
+      "startDate": "2025-03-02",
+      "endDate": "2025-06-08",
+      "summary": "Proposed and executed an independent project on the equity of cascading power failures in the California energy grid under Professor Adam Wierman..",
+      "highlights": ["Networks", "Energy", "Equity"]
+    },
+    {
+      "name": "Caltech",
+      "position": "Undergraduate Researcher",
+      "startDate": "2024-01-03",
+      "endDate": "2025-06-08",
+      "summary": "Collaborated with Professor R. Michael Alvarez to design and carry out a project on identifying climate change misinformation in multi-modal video content using machine learning in the Alvarez Political Science group.",
+      "highlights": ["Machine Learning", "Climate Change", "Sustainability"]
     }
   ],
   "education": [
@@ -37,7 +53,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Algorithms", "Optimization"]
+      "keywords": ["Algorithms", "Optimization", "Equity"]
     }
   ]
 }
