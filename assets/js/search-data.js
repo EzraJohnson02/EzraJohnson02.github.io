@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My CV as of July, 2025.",
+          description: "My CV as of November, 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -30,6 +30,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-was-selected-for-the-nsf-reu-ceet-program-at-the-university-of-massachusetts-amherst",
           title: 'I was selected for the NSF REU CEET program at the University of...',
+          description: "",
+          section: "News",},{id: "news-our-work-signal-aware-workload-shifting-algorithms-with-uncertainty-quantified-predictors-was-accepted-to-e-energy-26",
+          title: 'Our work, “Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors”, was accepted to e-Energy...',
           description: "",
           section: "News",},{
         id: 'social-email',
