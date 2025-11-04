@@ -18,7 +18,7 @@
       "url": "https://www.energytransitionumass.org/reu2025",
       "startDate": "2025-06-02",
       "endDate": "2025-08-08",
-      "summary": "Proved theoretical bounds on an uncertainty quantified, learning augmented, online algorithm for the online conversion with switching costs problem we designed. Simulated performance in a carbon forecasting dataset to measure empirical gains. Worked in the SOLAR group run by Professor Mohammad Hajiesmaili.",
+      "summary": "Proved theoretical bounds on an uncertainty quantified, learning augmented, online algorithm for a novel online conversion problem. Simulated performance in a carbon forecasting dataset to measure empirical gains. Worked in the SOLAR group run by Professor Mohammad Hajiesmaili.",
       "highlights": ["Algorithms", "Optimization", "Sustainability"]
     },
     {
