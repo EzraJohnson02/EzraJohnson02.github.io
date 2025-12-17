@@ -22,6 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Ezra Johnson, a senior undergraduate computer science major at Caltech. Looking forward, I hope to conduct my Ph.D. on algorithms with focus on theoretical performance bounds and applications to social issues such as sustainability and fairness.
+I am Ezra Johnson, a undergraduate computer science major at Caltech graduating in December 2025. Looking forward, I hope to conduct my Ph.D. on algorithms with focus on theoretical performance bounds and applications to social issues such as sustainability and fairness.
 
-During my time at Caltech, I have been fortunate to work with Professors [R. Michael Alvarez](https://www.rmichaelalvarez.com/) and [Adam Wierman](https://adamwierman.com/). This past summer, I was honored to be conduct an REU at UMass Amherst under Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). I am grateful to have learned from these researchers.
+During my time at Caltech, I have been fortunate to work with Professors [R. Michael Alvarez](https://www.rmichaelalvarez.com/) and [Adam Wierman](https://adamwierman.com/). This past summer, I was grateful to be conduct an REU at UMass Amherst under Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/).
