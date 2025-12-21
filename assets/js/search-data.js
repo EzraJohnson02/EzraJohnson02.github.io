@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-signal-aware-workload-shifting-algorithms-with-uncertainty-quantified-predictors-was-accepted-to-e-energy-26",
           title: 'Our work, “Signal-Aware Workload Shifting Algorithms with Uncertainty-Quantified Predictors”, was accepted to e-Energy...',
           description: "",
+          section: "News",},{id: "news-i-finished-my-bachelor-of-science-in-computer-science-at-caltech",
+          title: 'I finished my Bachelor of Science in computer science at Caltech!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
