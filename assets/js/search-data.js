@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-finished-my-bachelor-of-science-in-computer-science-at-caltech",
           title: 'I finished my Bachelor of Science in computer science at Caltech!',
           description: "",
+          section: "News",},{id: "news-i-finished-my-bachelor-of-science-in-computer-science-at-caltech",
+          title: 'I finished my Bachelor of Science in computer science at Caltech!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
