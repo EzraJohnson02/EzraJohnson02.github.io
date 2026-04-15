@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finished my Bachelor of Science in computer science at Caltech!
+I accepted my offer to join George Mason University for my Ph.D. in computer science!
