@@ -22,6 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am recently graduated computer science major from Caltech. Looking forward, I hope to conduct my Ph.D. on algorithms with focus on theoretical performance bounds and applications to social issues such as sustainability.
+I am an incoming computer science Ph.D. student at George Mason University. I received my Bachelor's of Science in computer science from Caltech in December, 2025. Looking forward, I hope to conduct my Ph.D. on algorithms with focus on theoretical performance bounds and applications to social issues such as sustainability.
 
-During my time at Caltech, I have been fortunate to work with Professors [R. Michael Alvarez](https://www.rmichaelalvarez.com/) and [Adam Wierman](https://adamwierman.com/). I have also been able to collaborate closely with Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) through two REU experiences at UMass Amherst.
+During my time at Caltech, I was fortunate to work with Professors [R. Michael Alvarez](https://www.rmichaelalvarez.com/) and [Adam Wierman](https://adamwierman.com/). I have also been able to collaborate closely with Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) through two REU experiences at UMass Amherst.
