@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Ezra_Johnson_CV.pdf # you can also use external links here
-description: My CV as of December, 2025.
+description: My CV as of April, 2026.
 toc:
   sidebar: left
 ---
