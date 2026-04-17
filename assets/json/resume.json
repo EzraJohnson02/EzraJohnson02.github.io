@@ -4,7 +4,7 @@
     "label": "CS Researcher",
     "image": "",
     "email": "erjohnso@caltech.edu",
-    "url": "https://ezrajohnson.me",
+    "url": "https://ezrajohnson02.github.io",
     "location": {
       "city": "Pasadena",
       "countryCode": "US",
@@ -12,6 +12,14 @@
     }
   },
   "work": [
+    {
+      "name": "NSF REU",
+      "position": "Researcher",
+      "startDate": "2026-01-12",
+      "endDate": "2026-04-12",
+      "summary": "Designed study of new variant of multi-agent multi-armed bandit evaluated using metrics of fairness. Proved regret bounds of Nash social welfare of the algorithms developed. Engineered simulation code to empirically test the distributed algorithms developed. Worked in the SOLAR group run by Professor Mohammad Hajiesmaili.",
+      "highlights": ["Algorithms", "Decentralized learning"]
+    },
     {
       "name": "NSF REU",
       "position": "CEET Summer Researcher",
@@ -53,7 +61,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Algorithms", "Optimization", "Equity"]
+      "keywords": ["Online algorithms", "Decentralized learning", "Job scheduling", "Sustainability"]
     }
   ]
 }
