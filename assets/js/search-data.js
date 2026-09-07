@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-accepted-my-offer-to-join-george-mason-university-for-my-ph-d-in-computer-science",
           title: 'I accepted my offer to join George Mason University for my Ph.D. in...',
           description: "",
+          section: "News",},{id: "news-i-began-my-studies-at-george-mason-university-for-my-ph-d-in-computer-science",
+          title: 'I began my studies at George Mason University for my Ph.D. in computer...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
