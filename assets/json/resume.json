@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Ezra Johnson",
-    "label": "Incoming CS PhD Student @ George Mason University",
+    "label": "CS PhD Student @ George Mason University",
     "image": "",
-    "email": "erjohnso@caltech.edu",
+    "email": "ejohn28@gmu.edu",
     "url": "https://ezrajohnson02.github.io",
     "location": {
-      "city": "Pasadena",
+      "city": "Fairfax",
       "countryCode": "US",
-      "region": "California"
+      "region": "Virginia"
     }
   },
   "work": [
@@ -55,13 +55,31 @@
       "studyType": "B.S.",
       "startDate": "2020-09-25",
       "endDate": "2025-12-15"
+    },
+    {
+      "institution": "George Mason University",
+      "location": "Fairfax, Virginia",
+      "url": "https://www.gmu.edu/",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2026-08-24",
+      "endDate": "2028-05-01"
+    },
+    {
+      "institution": "George Mason University",
+      "location": "Fairfax, Virginia",
+      "url": "https://www.gmu.edu/",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2026-08-24",
+      "endDate": "2031-05-01"
     }
   ],
   "interests": [
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Online algorithms", "Decentralized learning", "Job scheduling", "Sustainability"]
+      "keywords": ["Online algorithms", "Scheduling", "Sustainability"]
     }
   ]
 }
