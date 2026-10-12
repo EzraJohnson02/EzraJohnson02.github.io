@@ -189,7 +189,6 @@ exclude:
   - \_pages/repositories.md
   - \_includes/repository/
   - \_pages/profiles.md
-  - \_pages/teaching.md
   - \pages/projects.md
   - \_pages/dropdown.md
 keep_files:

@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+CS262, Introduction to Low-Level Programming
 
-Organize your courses by years, topics, or universities, however you like!
+- Led a lab section of 35 students weekly where I instructed undergraduates on the basics of C programming.
+- Lectured students weekly on topics from lecture.
+- Graded homework, coding projects, and lab assignments.
