@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -48,7 +55,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%65%72%6A%6F%68%6E%73%6F@%63%61%6C%74%65%63%68.%65%64%75", "_blank");
+          window.open("mailto:%65%6A%6F%68%6E%32%38@%67%6D%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
